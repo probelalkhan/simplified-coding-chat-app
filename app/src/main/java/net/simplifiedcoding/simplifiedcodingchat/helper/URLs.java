@@ -5,7 +5,7 @@ package net.simplifiedcoding.simplifiedcodingchat.helper;
  */
 public class URLs {
 
-    public static final String ROOT_URL = "http://internetfaqs.net/SimplifiedCodingChat/v1/";
+    public static final String ROOT_URL = "http://192.168.94.1/SimplifiedCodingChat/v1/";
 
     public static final String URL_REGISTER = ROOT_URL + "register";
     public static final String URL_STORE_TOKEN = ROOT_URL + "storegcmtoken/";
