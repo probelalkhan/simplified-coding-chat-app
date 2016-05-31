@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "545424530921",
+    "project_id": "simplified-coding-chat"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545424530921:android:d406d3dca62d8a8b",
+        "android_client_info": {
+          "package_name": "net.simplifiedcoding.simplifiedcodingchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD9N7i4bM7QYy-lZSoRuKmmpKhoU8U-uM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
